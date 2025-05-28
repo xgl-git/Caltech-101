@@ -34,9 +34,9 @@ python 1_finetune.py
 ```
 python 2_scrtach.py
 ```
-##🧪 如何可视化曲线
+##🧪 不同参数的影响
 
 ```
-python 3_plot.py
+python 4_hyperparam_search.py
 ```
 
